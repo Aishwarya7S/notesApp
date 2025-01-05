@@ -5,4 +5,4 @@ This Notes App is a simple yet functional web application that allows users to:
    Search notes by their title 🔍
 The app is built using HTML, CSS, Bootstrap, and JavaScript, providing a clean and responsive user interface.
 Image:
-![notes](https://github.com/user-attachments/assets/d3beb812-fe28-4938-aa73-1aa57df5dc33)
+![notes](https://github.com/user-attachments/assets/4c0524ad-f6a8-43fb-828d-96198763f1c9)
